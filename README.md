@@ -41,7 +41,7 @@ Material utilizado para aprofundar conceitos contábeis e apoiar a compreensão 
 **3. Lei nº 6.404/1976 — Lei das Sociedades por Ações**
 
 Fonte normativa utilizada para fundamentar aspectos relacionados à estrutura da DRE e do BP.
-[Acessar PDF](./Lei%206404-15-dezembro-1976-368447-normaatualizada-pl.pdf)
+[Acessar PDF](./lei-6404-15-dezembro-1976-368447-normaatualizada-pl.pdf)
 
 **4. Normas Completas — CFC**
 
