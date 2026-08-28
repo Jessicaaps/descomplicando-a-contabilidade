@@ -36,7 +36,7 @@ Material didático utilizado como base introdutória para conceitos da contabili
 **2. Contabilidade Intermediária**
 
 Material utilizado para aprofundar conceitos contábeis e apoiar a compreensão das estruturas patrimoniais e de resultado.
-[Acessar PDF](./Contabilidade%20Intermediaria.pdf)
+[Acessar PDF](./ContabilidadeIntermediaria.pdf)
 
 **3. Lei nº 6.404/1976 — Lei das Sociedades por Ações**
 
