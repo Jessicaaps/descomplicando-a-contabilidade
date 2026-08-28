@@ -165,34 +165,51 @@ A Despesa corresponde ao consumo de recursos relacionado às atividades da empre
 O Custo está relacionado aos gastos necessários para adquirir mercadorias ou produzir bens destinados à venda.
 
 ## 7. Glossário
-Ativo: recursos controlados pela entidade.
-Passivo: obrigações presentes da entidade.
-Patrimônio Líquido: valor residual dos ativos após dedução dos passivos.
-Capital Social: recursos destinados pelos proprietários à empresa.
-Receita: aumento de benefícios econômicos que contribui para o resultado.
-Despesa: decréscimo de benefícios econômicos que reduz o resultado.
-Custo: gasto relacionado à aquisição ou produção dos itens destinados à venda.
-Débito: um dos lados do lançamento contábil; sua função depende da natureza da conta.
-Crédito: um dos lados do lançamento contábil; sua função depende da natureza da conta.
-Partidas Dobradas: método que mantém a igualdade entre débitos e créditos.
-Fato Permutativo: fato que altera a composição patrimonial sem modificar o Patrimônio Líquido.
-DRE: Demonstração do Resultado do Exercício.
-BP: Balanço Patrimonial.
-Regime de Competência: reconhecimento das receitas e despesas no período a que se referem.
+**Ativo:** Recursos controlados pela entidade.
+
+**Passivo:** Obrigações presentes da entidade.
+
+**Patrimônio Líquido:** Valor residual dos ativos após a dedução dos passivos.
+
+**Capital Social:** Recursos destinados pelos proprietários à empresa.
+
+**Receita:** Aumento de benefícios econômicos que contribui para o resultado.
+
+**Despesa:** Decréscimo de benefícios econômicos que reduz o resultado.
+
+**Custo:** Gasto relacionado à aquisição ou produção dos itens destinados à venda.
+
+**Débito:** Um dos lados do lançamento contábil; sua função depende da natureza da conta.
+
+**Crédito:** Um dos lados do lançamento contábil; sua função depende da natureza da conta.
+
+**Partidas Dobradas:** Método que mantém a igualdade entre débitos e créditos.
+
+**Fato Permutativo:** Fato que altera a composição patrimonial sem modificar o Patrimônio Líquido.
+
+**DRE:** Demonstração do Resultado do Exercício.
+
+**BP:** Balanço Patrimonial.
+
+**Regime de Competência:** Reconhecimento das receitas e despesas no período a que se referem.
 
 ## 8. Prompts Reutilizáveis
 
-**Explicação de conceito**
-Atue como professor de Ciências Contábeis. Com base exclusivamente nas fontes fornecidas, explique o conceito de [CONCEITO]. Apresente a definição técnica, uma explicação em linguagem simples, um exemplo prático e indique as fontes utilizadas.
+### Explicação de conceito
 
-**Comparação**
-Compare [CONCEITO A] e [CONCEITO B] com base exclusivamente nas fontes fornecidas. Explique por que eles podem ser confundidos, apresente as principais diferenças e exemplos práticos.
+> Atue como professor de Ciências Contábeis. Com base exclusivamente nas fontes fornecidas, explique o conceito de [CONCEITO]. Apresente a definição técnica, uma explicação em linguagem simples, um exemplo prático e indique as fontes utilizadas.
 
-**Revisão crítica**
-Analise criticamente sua resposta anterior com base exclusivamente nas fontes fornecidas. Identifique possíveis simplificações ou imprecisões que possam levar um estudante a uma interpretação equivocada e apresente as correções necessárias.
+### Comparação
 
-**Exercício prático**
-Crie situações práticas envolvendo [TEMA]. Apresente uma situação por vez e aguarde minha tentativa antes de fornecer a resposta. Após minha resposta, corrija o lançamento, explique o raciocínio contábil e indique a fonte utilizada.
+> Compare [CONCEITO A] e [CONCEITO B] com base exclusivamente nas fontes fornecidas. Explique por que eles podem ser confundidos, apresente as principais diferenças e exemplos práticos.
+
+### Revisão crítica
+
+> Analise criticamente sua resposta anterior com base exclusivamente nas fontes fornecidas. Identifique possíveis simplificações ou imprecisões que possam levar um estudante a uma interpretação equivocada e apresente as correções necessárias.
+
+### Exercício prático
+
+> Crie situações práticas envolvendo [TEMA]. Apresente uma situação por vez e aguarde minha tentativa antes de fornecer a resposta. Após minha resposta, corrija o lançamento, explique o raciocínio contábil e indique a fonte utilizada.
 
 ## 9. Conclusão
 O NotebookLM pode ser uma ferramenta útil para a aprendizagem quando utilizado com fontes confiáveis, prompts bem estruturados e análise crítica das respostas.
