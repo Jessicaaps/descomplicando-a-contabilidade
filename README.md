@@ -19,8 +19,30 @@ A escolha do tema surgiu do meu interesse em aprofundar meus conhecimentos cont�
 ### Conceitos selecionados
 
 O projeto foi delimitado em seis conceitos centrais:
-
-
-
 **Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo.**
+
+
+## 2. Curadoria de Fontes
+
+Para construir o caderno temático no NotebookLM, foram selecionadas quatro fontes relacionadas ao estudo da Contabilidade.
+
+### Fontes utilizadas
+
+**1. Contabilidade Geral**
+
+Material didático utilizado como base introdutória para conceitos da Contabilidade.
+
+**2. Contabilidade Intermediária**
+
+Material utilizado para aprofundar conceitos contábeis e apoiar a compreensão das estruturas patrimoniais e de resultado.
+
+**3. Lei nº 6.404/1976 — Lei das Sociedades por Ações**
+
+Fonte normativa utilizada para fundamentar aspectos relacionados à estrutura da DRE e do BP.
+
+**4. Normas Completas — CFC**
+
+Fonte normativa utilizada para consultar conceitos e orientações das Normas Brasileiras de Contabilidade.
+
+[Normas Completas — CFC](https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/normas-completas/)
 
