@@ -36,10 +36,12 @@ Material didático utilizado como base introdutória para conceitos da contabili
 **2. Contabilidade Intermediária**
 
 Material utilizado para aprofundar conceitos contábeis e apoiar a compreensão das estruturas patrimoniais e de resultado.
+[Acessar PDF](./Contabilidade%20Intermediaria.pdf)
 
 **3. Lei nº 6.404/1976 — Lei das Sociedades por Ações**
 
 Fonte normativa utilizada para fundamentar aspectos relacionados à estrutura da DRE e do BP.
+[Acessar PDF](./Lei%206404-15-dezembro-1976-368447-normaatualizada-pl.pdf)
 
 **4. Normas Completas — CFC**
 
