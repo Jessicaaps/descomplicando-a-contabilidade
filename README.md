@@ -142,3 +142,24 @@ Antes de continuar para o próximo exercício, pedi ao NotebookLM que explicasse
 ### Cicatriz 4 — Novos caminhos de estudo
 Ao final dos exercícios, o NotebookLM sugeriu aprofundamentos em temas que não estavam no escopo inicial.
 
+## 6.  Miniguia de Estudos
+
+### 6.1 Ativo
+O Ativo representa o conjunto de bens e direitos controlados pela empresa.
+
+### 6.2 Passivo
+O Passivo representa as obrigações e dívidas da empresa com terceiros.
+
+### 6.3 Patrimônio Líquido
+O Patrimônio Líquido corresponde ao valor residual dos ativos depois de deduzidos os passivos.
+Equação:
+PL = Ativo – Passivo
+
+### 6.4 Receita
+A Receita corresponde aos aumentos nos benefícios econômicos da empresa, decorrentes de suas atividades, que resultam no aumento do Patrimônio Líquido, exceto quando esse aumento ocorre por meio de aporte dos sócios.
+
+### 6.5 Despesa
+A Despesa corresponde ao consumo de recursos relacionado às atividades da empresa, que resulta em uma redução dos benefícios econômicos e afeta o resultado do período.
+
+### 6.6 Custo
+O Custo está relacionado aos gastos necessários para adquirir mercadorias ou produzir bens destinados à venda.
