@@ -49,3 +49,74 @@ Fonte normativa utilizada para consultar conceitos e orientações das Normas Br
 
 [Normas Completas — CFC](https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/normas-completas/)
 
+## 3. Uso do NotebookLM
+
+O NotebookLM foi utilizado como uma ferramenta de estudo baseada nas fontes selecionadas.
+
+O processo foi dividido em etapas:
+
+- Seleção e organização das fontes;
+- Definição dos seis conceitos centrais;
+- Elaboração de prompts;
+- Comparação entre conceitos;
+- Revisão crítica das respostas;
+- Aplicação dos conhecimentos em exercícios práticos;
+- Miniguia de estudos.
+
+## 4. Engenharia de Prompts
+
+### Prompt 1 — Estudo dos seis conceitos contábeis
+
+**Objetivo**
+
+Aprofundar o conhecimento sobre os seis conceitos contábeis selecionados para o projeto, utilizando exclusivamente as fontes disponibilizadas no NotebookLM.
+
+**Prompt utilizado**
+
+> Considere o contexto de um estudante de Ciências Contábeis. Para este projeto, foram selecionados previamente os seguintes conceitos para estudo: Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo. Com base exclusivamente nas fontes disponibilizadas neste notebook, explique esses seis conceitos de forma didática. Para cada conceito, apresente sua definição segundo as fontes, uma explicação em linguagem para uma pessoa que não entende nada de contabilidade, um exemplo prático e indique quais fontes fundamentam a explicação.
+
+**Resultado**
+
+O NotebookLM apresentou os seis conceitos com definição técnica, explicação simplificada, exemplos práticos e indicação das fontes utilizadas.
+
+### Prompt 2 — Comparação e diferenciação dos conceitos
+
+**Objetivo**
+
+Compreender as principais diferenças e possíveis confusões entre os seis conceitos estudados.
+
+**Prompt utilizado**
+
+> Com base exclusivamente nas fontes disponibilizadas neste notebook, analise as principais diferenças e possíveis confusões entre os seis conceitos estudados: Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo. Para cada relação, explique de forma simples por que os conceitos podem ser confundidos e apresente um exemplo prático que permita diferenciá-los. Dê atenção especial às diferenças entre Receita e Faturamento, Despesa e Custo, e Ativo e Patrimônio Líquido. Ao final, apresente uma tabela comparativa resumindo as principais diferenças.
+
+**Resultado**
+
+O NotebookLM apresentou comparações entre diferentes conceitos e exemplos práticos. Essa etapa foi importante porque mostrou que conceitos aparentemente semelhantes podem possuir funções contábeis diferentes.
+
+### Prompt 3 — Verificação crítica
+
+**Objetivo**
+
+Verificar a precisão das explicações produzidas anteriormente pelo NotebookLM e identificar simplificações que poderiam levar a interpretações equivocadas dos conceitos contábeis.
+
+**Prompt utilizado**
+
+> Analise criticamente a explicação anterior sobre Receita e Faturamento e sobre Custo e Despesa. Com base exclusivamente nas fontes disponibilizadas neste notebook, verifique se as definições e exemplos apresentados estão tecnicamente corretos e se existe alguma simplificação que possa levar um estudante a uma interpretação equivocada. Para cada possível problema identificado, explique o que precisa ser corrigido ou complementado e apresente uma versão tecnicamente mais precisa da explicação. Cite as fontes utilizadas para fundamentar cada correção.
+
+**Resultado**
+
+A análise identificou pontos que precisavam de maior precisão e permitiu revisar algumas explicações para evitar simplificações que poderiam gerar interpretações equivocadas.
+
+### Prompt 4 — Aplicação prática
+
+**Objetivo**
+
+Aplicar os conceitos estudados em situações práticas de uma empresa.
+
+**Prompt utilizado**
+
+> Com base exclusivamente nas fontes disponibilizadas neste notebook e nos seis conceitos estudados — Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo — crie um exercício prático envolvendo 6 operações de uma empresa. O objetivo é que o estudante identifique os conceitos contábeis envolvidos e realize os respectivos lançamentos pelo método das partidas dobradas. Apresente uma operação por vez e aguarde minha resposta antes de apresentar a próxima. Após cada resposta, informe se está correta ou incorreta, explique o raciocínio contábil de forma didática e indique as fontes que fundamentam a correção. Não apresente a resposta antes da minha tentativa.
+
+**Resultado**
+
+O NotebookLM apresentou operações práticas e aguardou minha tentativa antes de fornecer a correção. Essa etapa permitiu aplicar os conceitos estudados em situações práticas e compreender melhor o raciocínio por trás dos lançamentos contábeis.
