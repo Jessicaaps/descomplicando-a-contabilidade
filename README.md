@@ -20,7 +20,6 @@ A escolha do tema surgiu do meu interesse em aprofundar meus conhecimentos cont�
 
 O projeto foi delimitado em seis conceitos centrais:
 
-**Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo.**
 
 
 **Ativo, Passivo, Patrimônio Líquido, Receita, Despesa e Custo.**
