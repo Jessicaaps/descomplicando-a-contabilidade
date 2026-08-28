@@ -24,13 +24,13 @@ O projeto foi delimitado em seis conceitos centrais:
 
 ## 2. Curadoria de Fontes
 
-Para construir o caderno temático no NotebookLM, foram selecionadas quatro fontes relacionadas ao estudo da Contabilidade.
+Para construir o caderno temático no NotebookLM, foram selecionadas quatro fontes relacionadas ao estudo da contabilidade.
 
 ### Fontes utilizadas
 
 **1. Contabilidade Geral**
 
-Material didático utilizado como base introdutória para conceitos da Contabilidade.
+Material didático utilizado como base introdutória para conceitos da contabilidade.
 
 **2. Contabilidade Intermediária**
 
