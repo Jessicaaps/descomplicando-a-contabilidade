@@ -182,16 +182,16 @@ Regime de Competência: reconhecimento das receitas e despesas no período a que
 
 ## 8. Prompts Reutilizáveis
 
-Explicação de conceito
+**Explicação de conceito**
 Atue como professor de Ciências Contábeis. Com base exclusivamente nas fontes fornecidas, explique o conceito de [CONCEITO]. Apresente a definição técnica, uma explicação em linguagem simples, um exemplo prático e indique as fontes utilizadas.
 
-Comparação
+**Comparação**
 Compare [CONCEITO A] e [CONCEITO B] com base exclusivamente nas fontes fornecidas. Explique por que eles podem ser confundidos, apresente as principais diferenças e exemplos práticos.
 
-Revisão crítica
+**Revisão crítica**
 Analise criticamente sua resposta anterior com base exclusivamente nas fontes fornecidas. Identifique possíveis simplificações ou imprecisões que possam levar um estudante a uma interpretação equivocada e apresente as correções necessárias.
 
-Exercício prático
+**Exercício prático**
 Crie situações práticas envolvendo [TEMA]. Apresente uma situação por vez e aguarde minha tentativa antes de fornecer a resposta. Após minha resposta, corrija o lançamento, explique o raciocínio contábil e indique a fonte utilizada.
 
 ## 9. Conclusão
