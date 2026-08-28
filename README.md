@@ -31,6 +31,7 @@ Para construir o caderno temático no NotebookLM, foram selecionadas quatro font
 **1. Contabilidade Geral**
 
 Material didático utilizado como base introdutória para conceitos da contabilidade.
+[Acessar PDF](./Contabilidade%20Geral.pdf)
 
 **2. Contabilidade Intermediária**
 
