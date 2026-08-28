@@ -165,33 +165,33 @@ A Despesa corresponde ao consumo de recursos relacionado às atividades da empre
 O Custo está relacionado aos gastos necessários para adquirir mercadorias ou produzir bens destinados à venda.
 
 ## 7. Glossário
-**Ativo:** Recursos controlados pela entidade.
+**Ativo:** recursos controlados pela entidade.
 
-**Passivo:** Obrigações presentes da entidade.
+**Passivo:** obrigações presentes da entidade.
 
-**Patrimônio Líquido:** Valor residual dos ativos após a dedução dos passivos.
+**Patrimônio Líquido:** valor residual dos ativos após a dedução dos passivos.
 
-**Capital Social:** Recursos destinados pelos proprietários à empresa.
+**Capital Social:** recursos destinados pelos proprietários à empresa.
 
-**Receita:** Aumento de benefícios econômicos que contribui para o resultado.
+**Receita:** aumento de benefícios econômicos que contribui para o resultado.
 
-**Despesa:** Decréscimo de benefícios econômicos que reduz o resultado.
+**Despesa:** decréscimo de benefícios econômicos que reduz o resultado.
 
-**Custo:** Gasto relacionado à aquisição ou produção dos itens destinados à venda.
+**Custo:** gasto relacionado à aquisição ou produção dos itens destinados à venda.
 
-**Débito:** Um dos lados do lançamento contábil; sua função depende da natureza da conta.
+**Débito:** um dos lados do lançamento contábil; sua função depende da natureza da conta.
 
-**Crédito:** Um dos lados do lançamento contábil; sua função depende da natureza da conta.
+**Crédito:** um dos lados do lançamento contábil; sua função depende da natureza da conta.
 
-**Partidas Dobradas:** Método que mantém a igualdade entre débitos e créditos.
+**Partidas Dobradas:** método que mantém a igualdade entre débitos e créditos.
 
-**Fato Permutativo:** Fato que altera a composição patrimonial sem modificar o Patrimônio Líquido.
+**Fato Permutativo:** fato que altera a composição patrimonial sem modificar o Patrimônio Líquido.
 
 **DRE:** Demonstração do Resultado do Exercício.
 
 **BP:** Balanço Patrimonial.
 
-**Regime de Competência:** Reconhecimento das receitas e despesas no período a que se referem.
+**Regime de Competência:** reconhecimento das receitas e despesas no período a que se referem.
 
 ## 8. Prompts Reutilizáveis
 
