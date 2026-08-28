@@ -125,15 +125,18 @@ O NotebookLM apresentou operações práticas e aguardou minha tentativa antes d
 
 ### Cicatriz 1 — Delimitação do tema
 As fontes apresentavam muitos conteúdos diferentes. Foi necessário definir seis conceitos para manter o projeto focado.
+
 **Aprendizado**: um bom estudo com IA precisa de um objetivo e um escopo claros.
 
 ### Cicatriz 2 — Aprendizado complementar
 Durante os exercícios práticos, surgiu o conceito de fato permutativo, que não fazia parte dos seis conceitos inicialmente selecionados.
+
 **Aprendizado**: a aplicação prática pode revelar novos conceitos que não aparecem inicialmente.
 
 ### Cicatriz 3 — Dúvidas sobre conceitos
 Durante um dos exercícios, fiquei em dúvida sobre a conta Imóveis, queria entender melhor se deveria ser considerada apenas como um bem ou também como uma aplicação de recursos.
 Antes de continuar para o próximo exercício, pedi ao NotebookLM que explicasse melhor o conceito para conseguir entender o raciocínio contábil.
+
 **Aprendizado**: interromper o exercício para esclarecer uma dúvida foi mais produtivo do que simplesmente seguir para a próxima questão.
 
 ### Cicatriz 4 — Novos caminhos de estudo
